@@ -4,8 +4,6 @@
 
 # CityWise: Your Smart Urban Companion
 
-![CityWise Logo](link-to-logo-image-if-available)
-
 **CityWise** is a comprehensive mobile application designed to improve urban living by providing real-time news, augmented reality (AR) navigation, mental health support, civic issue reporting, and live economic updates. This smart city companion is built in Kotlin and integrates multiple services to empower users with essential information and tools for modern city life.
 
 ---
@@ -19,10 +17,20 @@ CityWise was inspired by the need for a centralized platform where city dwellers
 ## Features
 
 - **Live News Updates**: Get real-time news tailored to your city.
+  ![WhatsApp Image 2024-10-26 at 22 21 49_3456c2d7](https://github.com/user-attachments/assets/ff1fc916-4a9a-400c-90da-eb13a056c0bf)
+
 - **AR Navigation**: Use augmented reality to navigate the city with ease.
+  ![WhatsApp Image 2024-10-26 at 22 21 48_4e178517](https://github.com/user-attachments/assets/5b358271-a2ec-4494-929b-e809af4246ab)
+  ![WhatsApp Image 2024-10-26 at 22 21 47_46ca4ffe](https://github.com/user-attachments/assets/7acfc7f6-e3f7-4520-a6ed-a4d84b277e76)
+
 - **Mental Health Chatbot**: Access supportive resources through an empathetic chatbot.
+- ![WhatsApp Image 2024-10-26 at 22 21 45_4856f700](https://github.com/user-attachments/assets/e25913d1-db70-4cad-911c-036aa95bee83)
+
 - **Civil Issue Reporting**: Report local issues to authorities directly.
+- ![WhatsApp Image 2024-10-26 at 22 21 46_34e1e6b8](https://github.com/user-attachments/assets/16ae0fe7-ae33-406a-8876-c20373ff3ad3)
+
 - **Economic Data Insights**: Stay informed with real-time GDP and economic metrics.
+  ![WhatsApp Image 2024-10-26 at 22 21 44_39adb1ec](https://github.com/user-attachments/assets/781805fb-f432-4763-8a5a-d7366bed2b65)
 
 ---
 
@@ -48,10 +56,22 @@ The app follows a modular microservices architecture, with each service handling
 3. **Storage**: Includes a main database for user data and Redis for caching frequently accessed data.
 4. **External Services**: Connects to external APIs for news, government data, and maps.
 
-![System Architecture Diagram]
+[System Architecture Diagram]
 ![image](https://github.com/user-attachments/assets/4213b7bb-93d2-4fa3-b256-d5f64609c627)
 
 ---
+[Frontend Overview]
+[1. Login Page]
+![WhatsApp Image 2024-10-26 at 22 21 50_ac3f90ee](https://github.com/user-attachments/assets/4bef8a13-bcb1-4be6-92d0-77ae8df881fe)
+
+
+[2. Sign Page]
+![image](https://github.com/user-attachments/assets/f835771d-f08c-49a0-b7b9-ea5da77abd19)
+![image](https://github.com/user-attachments/assets/cf255c90-8209-49e8-a74f-629a8c1e80d5)
+
+[3. Landing Page]
+![WhatsApp Image 2024-10-26 at 22 21 43_39f46794](https://github.com/user-attachments/assets/63d6d274-1a41-4ba9-b9fa-a6a49bdcac88)
+
 
 ## Installation
 
