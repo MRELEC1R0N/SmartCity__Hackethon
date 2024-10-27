@@ -48,7 +48,8 @@ The app follows a modular microservices architecture, with each service handling
 3. **Storage**: Includes a main database for user data and Redis for caching frequently accessed data.
 4. **External Services**: Connects to external APIs for news, government data, and maps.
 
-![System Architecture Diagram](link-to-architecture-diagram)
+![System Architecture Diagram]
+![image](https://github.com/user-attachments/assets/4213b7bb-93d2-4fa3-b256-d5f64609c627)
 
 ---
 
